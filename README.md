@@ -9,6 +9,8 @@ various commands using a web project.
 
 Adding al line for rebasing example
 
+more changes from myfeature branch too
+
 ## Purpose
 
 As stated above, the main purpose is to provide simple examples for Git training Demos.
